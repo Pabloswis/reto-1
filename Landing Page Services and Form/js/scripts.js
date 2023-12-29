@@ -70,7 +70,6 @@ function validation(event) {
   }
 }
 
-// También puedes agregar un evento 'click' al botón para realizar acciones adicionales al hacer clic.
 buttonRegister.addEventListener('click', function () {
     //enviar el mail para recoleccion de leads
   alert(`¡Felicidades ${dataForm.name}!\nPronto recibiras informacion en tu mail`);
